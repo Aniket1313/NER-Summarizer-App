@@ -9,3 +9,7 @@ The basic workflow of our app includes
 3. Extracting Text From a Given URL using BeautifulSoup and Urllib or Request
 4. Entity Recognition using Spacy
 5. Rendering our Extracted Named Entities using Displacy and Streamlit
+
+The Web app looks like :
+
+![](NER.png)
